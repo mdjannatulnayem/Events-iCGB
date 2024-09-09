@@ -8,6 +8,7 @@ from sklearn.preprocessing import StandardScaler
 
 import torch, torch.nn as nn ,torch.nn.functional as F
 from torch.utils.data import DataLoader, TensorDataset
+# import intel_extension_for_pytorch as ipex
 
 import os
 import pickle
@@ -79,6 +80,9 @@ def train():
         # Define loss function and optimizer
         criterion = nn.CrossEntropyLoss()
         optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
+
+        # Apply Intel optimizations to the model and optimizer        
+        # model, optimizer = ipex.optimize(model, optimizer=optimizer, dtype=torch.float32) 
 
         # Training loop with timing
         num_epochs = 100
