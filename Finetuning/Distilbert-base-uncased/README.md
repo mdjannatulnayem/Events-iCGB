@@ -57,3 +57,10 @@ You can customize the training process by modifying the parameters in `llm_finet
 ### Inference
 
 Use the inference scripts ending with `_inf` notation.
+
+
+## Training Infrastructure
+This model was fine-tuned using Intel® Developer Cloud with the following infrastructure:
+
+- Compute Infrastructure: Intel® Tiber™ AI Cloud
+- Hardware: 4th Gen Intel(R) Xeon(R) Scalable Processor, specifically the Intel(R) Xeon(R) Platinum 8480+
