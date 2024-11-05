@@ -13,9 +13,13 @@ We’re a vibrant community of developers, tech enthusiasts, and students, pushi
 ## 🎉 Upcoming Event
 
 ### 🟢 **Building RAG Applications in the Intel® AI Cloud**
+
 **📅 Date:** Thursday, November 7, 2024
+
 **⏰ Time:** 12:30 PM UTC+06
+
 **📍 Venue:** Conference Room, CSE Department, Mymensingh Engineering College  
+
 **🤝 Hosted With:** MEC Computer Club  
 
 🌟 **What’s In It For You**
