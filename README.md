@@ -12,7 +12,24 @@ We’re a vibrant community of developers, tech enthusiasts, and students, pushi
 
 ## 🎉 Upcoming Event
 
-### 🟢 **Finetuning LLMs in the Intel AI Developer Cloud**
+### 🟢 **Building RAG Applications in the Intel® AI Cloud**
+**📅 Date:** Thursday, November 7, 2024
+**⏰ Time:** 12:30 PM UTC+06
+**📍 Venue:** Conference Room, CSE Department, Mymensingh Engineering College  
+**🤝 Hosted With:** MEC Computer Club  
+
+🌟 **What’s In It For You**
+The oneAPI Community Group Bangladesh is hosting an interactive workshop on "Building RAG Applications in the Intel® AI Cloud" 🌟
+
+- **Create Retrieval-Augmented Generation (RAG) Applications:** Learn to combine retrieval systems with large language models (LLMs) to build intelligent, context-aware applications.
+- **Hands-On Insights:** Understand how to leverage Intel's optimized hardware and software tools for enhancing model efficiency and scalability in real-world scenarios.
+- **Boost Your Skills with Intel AI Cloud**: Dive deep into Intel’s high-performance cloud infrastructure and see how it supports next-gen AI applications.
+
+---
+
+## 📆 Past Events
+
+### ✅ **Finetuning LLMs in the Intel AI Developer Cloud**
 
 **📅 Date:** Friday, October 11, 2024
 
@@ -20,15 +37,13 @@ We’re a vibrant community of developers, tech enthusiasts, and students, pushi
 
 **📍 Platform:** Microsoft Teams Meetings
 
-🌟 **What's In It For You**
+🌟 **Highlights**
 
 - **Hands-On with LLM Finetuning:** Learn how to fine-tune open-source language models using PEFT and LoRA techniques in the Intel AI Developer Cloud.
 - **Get Ready for the Hugging Face Leaderboard:** Prepare and submit your LLMs to the Powered-by-Intel LLM Leaderboard on Hugging Face. 🚀
 - **Join the Intel Student Ambassador Program:** Discover opportunities to grow your tech journey as an Intel Student Ambassador. 🌍
 
 ---
-
-## 📆 Past Events
 
 ### ✅ **Webinar - Artificial Intelligence: Software, Hardware and Interface**
 
