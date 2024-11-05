@@ -23,6 +23,7 @@ We’re a vibrant community of developers, tech enthusiasts, and students, pushi
 **🤝 Hosted With:** MEC Computer Club  
 
 🌟 **What’s In It For You**
+
 The oneAPI Community Group Bangladesh is hosting an interactive workshop on "Building RAG Applications in the Intel® AI Cloud" 🌟
 
 - **Create Retrieval-Augmented Generation (RAG) Applications:** Learn to combine retrieval systems with large language models (LLMs) to build intelligent, context-aware applications.
